@@ -1,0 +1,21 @@
+﻿  MainParse.cpp
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(139,9): warning C4476: "printf": 格式说明符中的类型字段字符“6”未知
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(139,37): warning C4474: printf: 格式字符串中传递的参数太多
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(139,37): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(152,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(152,9): message : 请考虑在格式字符串中使用“%llX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(152,9): message : 请考虑在格式字符串中使用“%IX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(152,9): message : 请考虑在格式字符串中使用“%I64X”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(153,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(153,9): message : 请考虑在格式字符串中使用“%llX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(153,9): message : 请考虑在格式字符串中使用“%IX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(153,9): message : 请考虑在格式字符串中使用“%I64X”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(154,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(154,9): message : 请考虑在格式字符串中使用“%llX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(154,9): message : 请考虑在格式字符串中使用“%IX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(154,9): message : 请考虑在格式字符串中使用“%I64X”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(155,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(155,9): message : 请考虑在格式字符串中使用“%llX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(155,9): message : 请考虑在格式字符串中使用“%IX”
+D:\小钱的C语言学习\C++书写helloworld\ReProject_1\MainParse.cpp(155,9): message : 请考虑在格式字符串中使用“%I64X”
+  ReProject_1.vcxproj -> D:\小钱的C语言学习\C++书写helloworld\ReProject_1\x64\Debug\ReProject_1.exe
